@@ -2,7 +2,7 @@
 
 gen-show3 is a JavaScript module for drawing family trees.
 
-The latest stable release is [here](https://github.com/gen-show3/gen-show3/releases/tag/3.0.2).
+The latest stable release is [here](https://github.com/gen-show3/gen-show3/releases/tag/v3.0.2).
 
 The source code is [here](https://github.com/gen-show3/gen-show3).
 
